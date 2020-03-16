@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://jigsaw-docs-staging.tighten.co',
+    'baseUrl' => 'https://kids-learning.netlify.com',
     'production' => false,
 
     // DocSearch credentials
