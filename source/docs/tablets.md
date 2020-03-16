@@ -17,4 +17,6 @@ section: content
 * Smsng Tab E cellular 150/unit
 * Smsng Tab A cellular 220/unit
 
-_All have cellular internet capacity. Same day delivery._
+_All have cellular internet capacity. Same day delivery._ 
+
+For more info contact Yaakov Gryn call 416-419-7990 or [by whatsapp](https://api.whatsapp.com/send?phone=14164197990&text=Can%20you%20please%20give%20me%20more%20info%20regarding:%20_____) 
