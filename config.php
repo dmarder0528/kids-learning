@@ -3,8 +3,8 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
-    'production' => false,
+    'baseUrl' => 'https://kids-learning.netlify.com',
+    'production' => true,
     'siteName' => 'Keeping Talmud Torah TO',
     'siteDescription' => 'Trying to find a way for the kids to continue learning Torah, when the classrooms are not available.',
 
