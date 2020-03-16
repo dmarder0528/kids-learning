@@ -11,7 +11,9 @@
             <p class="text-lg">Most of our kids are off from school. Please join this <a href="https://chat.whatsapp.com/HOoeHUsN4xwInA1FVBlTHi">group</a> to discuss the options for your kids schooling.</p>
 
             <div class="flex my-10">
-                <a href="https://chat.whatsapp.com/HOoeHUsN4xwInA1FVBlTHi" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Join Group Now</a>
+                <a href="https://chat.whatsapp.com/HOoeHUsN4xwInA1FVBlTHi" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Keeping Talmud Torah - WhatsApp Group</a>
+
+                <a href="https://chat.whatsapp.com/EgLgjDriWluLvxFAzYj5sd" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Self Quarantine help - WhatsApp Group</a>
 
                 <a href="docs/tablets" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">See the lists</a>
             </div>
