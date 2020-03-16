@@ -15,7 +15,7 @@ section: content
 * [torahtreasure.com](https://torahtreasure.com)
 * [themercava.com](https://www.themercava.com/app/) - has extensive digitized and interactive collections of seforim with translations and mefarshim that can be turned on and off with just a click. 
 * [sefaria.org](https://www.sefaria.org/) - has extensive digitized and interactive collections of seforim with translations and mefarshim that can be turned on and off with just a click. 
-* [The Crown Heights Yeshiva] (https://chyeshiva.com/) 
+* [The Crown Heights Yeshiva](https://chyeshiva.com/) 
 
 
 
