@@ -11,5 +11,6 @@ _To encourage people to practice social distancing we are also compiling a list 
 
 * **BUBBY'S NEW YORK BAGELS** - offering free delivery and curbside pickup - call Sruli @ (647) 773-3000 to arrange.
 * **Milk n Honey** - offer free delivery for orders over $50
+* Starting Tuesday **Milk n Honey** will be offering free delivery in partenrship with **Umami Sushi** and **Grodzinski Bakery**
 
 _Please note: Uber Eats waived delivery fees for local restaurants_
