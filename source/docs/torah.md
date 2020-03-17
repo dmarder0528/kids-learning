@@ -16,6 +16,9 @@ section: content
 * [themercava.com](https://www.themercava.com/app/) - has extensive digitized and interactive collections of seforim with translations and mefarshim that can be turned on and off with just a click. 
 * [sefaria.org](https://www.sefaria.org/) - has extensive digitized and interactive collections of seforim with translations and mefarshim that can be turned on and off with just a click. 
 * [The Crown Heights Yeshiva](https://chyeshiva.com/) 
+* <a href="https://www.responsa.co.il/home.he.aspx" target="_blank">מאגר הספרות התורנית הגדול בעולם</a>
+* <a href="http://www.otzar.org/" target="_blank">אוצר החכמה אונליין פתוח בחינם לכולם בגלל המצב.</a>
+* <a href="https://www.turesponse.org" target="_blank">Torah Umesorah website with resources for homeschooling now during the coronavirus. Site still new and being built</a>
 
 
 
