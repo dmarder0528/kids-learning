@@ -16,7 +16,7 @@ section: content
 * [themercava.com](https://www.themercava.com/app/) - has extensive digitized and interactive collections of seforim with translations and mefarshim that can be turned on and off with just a click. 
 * [sefaria.org](https://www.sefaria.org/) - has extensive digitized and interactive collections of seforim with translations and mefarshim that can be turned on and off with just a click. 
 * [The Crown Heights Yeshiva](https://chyeshiva.com/) 
-
+*Otzar Hachochma is free due to the situation. http://www.otzar.org/
 
 
 
